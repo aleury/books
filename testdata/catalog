@@ -1,0 +1,14 @@
+{
+  "abc": {
+    "ID": "abc",
+    "Title": "In the Company of Cheeful Ladies",
+    "Author": "Alexander McCall Smith",
+    "Copies": 1
+  },
+  "xyz": {
+    "ID": "xyz",
+    "Title": "White Heat",
+    "Author": "Dominic Sandbrook",
+    "Copies": 2
+  }
+}
